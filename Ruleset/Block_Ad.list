@@ -1,9 +1,4 @@
-# 仅广告
-
-# 手工定义的 Reject 列表
-# 待反馈是否误杀
 DOMAIN-SUFFIX,ad.12306.cn
-# 百度（可能有多余项）
 DOMAIN-SUFFIX,eclick.baidu.com
 DOMAIN-SUFFIX,entry.baidu.com
 DOMAIN-SUFFIX,hmma.baidu.com
