@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,checkipv6.synology.com
 DOMAIN-SUFFIX,checkport.synology.com
 DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,account.synology.com
+DOMAIN-SUFFIX,whatismyip.akamai.com
