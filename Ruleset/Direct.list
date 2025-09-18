@@ -7,7 +7,8 @@ SRC-IP-CIDR,192.168.100.104/29
 SRC-IP-CIDR,192.168.100.112/28
 SRC-IP-CIDR,192.168.100.128/25
 
-# DOMAIN-SUFFIX,familyds.com
+DOMAIN-SUFFIX,familyds.com
+
 # DOMAIN-SUFFIX,checkip.synology.com
 # DOMAIN-SUFFIX,checkipv6.synology.com
 # DOMAIN-SUFFIX,checkport.synology.com
