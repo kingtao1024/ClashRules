@@ -1,0 +1,17 @@
+# 本地/局域网地址
+
+# SRC-IP-CIDR,192.168.100.90/32
+
+SRC-IP-CIDR,192.168.100.100/30
+SRC-IP-CIDR,192.168.100.104/29
+SRC-IP-CIDR,192.168.100.112/28
+SRC-IP-CIDR,192.168.100.128/25
+
+# DOMAIN-SUFFIX,familyds.com
+# DOMAIN-SUFFIX,checkip.synology.com
+# DOMAIN-SUFFIX,checkipv6.synology.com
+# DOMAIN-SUFFIX,checkport.synology.com
+# DOMAIN-SUFFIX,ddns.synology.com
+# DOMAIN-SUFFIX,account.synology.com
+# DOMAIN-SUFFIX,whatismyip.akamai.com
+# DOMAIN-SUFFIX,checkip.dyndns.org
