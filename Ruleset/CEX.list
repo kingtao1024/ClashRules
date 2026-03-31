@@ -7,8 +7,8 @@ DOMAIN-KEYWORD,backpack
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-KEYWORD,bitget
 
-# DOMAIN-SUFFIX,bybit.com
-# DOMAIN-KEYWORD,bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-KEYWORD,bybit
 
 DOMAIN-SUFFIX,gate.io
 DOMAIN-KEYWORD,gate
