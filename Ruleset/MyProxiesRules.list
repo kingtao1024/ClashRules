@@ -1,10 +1,11 @@
-DOMAIN-SUFFIX,aicoin.com
-DOMAIN-KEYWORD,aicoin
-DOMAIN,dmhy.anoneko.com
-DOMAIN-SUFFIX,aave.com
-DOMAIN-KEYWORD,aave
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,onekey.so
-DOMAIN-KEYWORD,onekey
-DOMAIN-SUFFIX,blockbeats.cn
-DOMAIN-KEYWORD,blockbeats
+# 白名单模式，final代理兜底，应该不需要设置
+# DOMAIN-SUFFIX,aicoin.com
+# DOMAIN-KEYWORD,aicoin
+# DOMAIN,dmhy.anoneko.com
+# DOMAIN-SUFFIX,aave.com
+# DOMAIN-KEYWORD,aave
+# DOMAIN-SUFFIX,google-analytics.com
+# DOMAIN-SUFFIX,onekey.so
+# DOMAIN-KEYWORD,onekey
+# DOMAIN-SUFFIX,blockbeats.cn
+# DOMAIN-KEYWORD,blockbeats
