@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,bybit.com
 DOMAIN-KEYWORD,bybit
 
 DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gate.com
 DOMAIN-KEYWORD,gate
 
 DOMAIN-SUFFIX,kraken.com
@@ -21,3 +22,9 @@ DOMAIN-KEYWORD,mexc
 
 DOMAIN-KEYWORD,bitkeep
 DOMAIN-KEYWORD,bitapi
+
+DOMAIN-SUFFIX,grvt.io
+DOMAIN-KEYWORD,grvt
+
+#DOMAIN-SUFFIX,binance.com
+#DOMAIN-KEYWORD,binance
